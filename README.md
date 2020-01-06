@@ -1,5 +1,5 @@
 # Real time Drowsiness Detector for Safe Driving using Eye Blink Pattern Recognition Technique
-This software detects drowsiness of a human being
+Inspired by Soukupová and Čech’s 2016 paper - Real-Time Eye Blink Detection using Facial Landmarks.
 
 ## Salient Features of our work:
 1) Real time drowsiness detection is implemented on light weight
