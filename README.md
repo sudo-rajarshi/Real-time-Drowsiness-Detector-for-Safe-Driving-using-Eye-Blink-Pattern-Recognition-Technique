@@ -1,7 +1,7 @@
 # Real time Drowsiness Detector for Safe Driving using Eye Blink Pattern Recognition Technique
 Inspired by Soukupová and Čech’s 2016 paper - Real-Time Eye Blink Detection using Facial Landmarks.
 
-## Salient Features of our work:
+## Salient Features:
 1) Real time drowsiness detection is implemented on light weight
 processing unit (raspberry pi).
 2) The system is able to capture real time images using miniature
