@@ -42,7 +42,7 @@ https://drive.google.com/open?id=11AK6QzVa4Xu5JsfKgJ7lrQF7L3C3ug-9
 For every video frame, the eye landmarks are detected. The eye aspect ratio (EAR) between height
 and width of the eye is computed.
 
-EAR = (|p2-p6|+|p3-p5|)/(2*|p1-p4|)
+EAR = (|p2-p6|+|p3-p5|)/(|p1-p4|)
 
 Here we've the graph of EAR w.r.t time. As we can see, the Eye Aspect Ratio is constant (indicating the eye is open), then rapidly drops to zero, then increases again, indicating a blink has taken place.
 
