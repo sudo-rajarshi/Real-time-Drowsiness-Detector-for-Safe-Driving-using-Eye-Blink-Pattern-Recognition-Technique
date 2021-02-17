@@ -1,5 +1,5 @@
 # Real time Drowsiness Detector for Safe Driving using Eye Blink Pattern Recognition Technique
-Inspired by Soukupová and Čech’s 2016 paper - Real-Time Eye Blink Detection using Facial Landmarks.
+Inspired by Soukupová and Čech’s 2016 paper - [Real-Time Eye Blink Detection using Facial Landmarks](https://www.semanticscholar.org/paper/Real-Time-Eye-Blink-Detection-using-Facial-Soukupov%C3%A1-%C4%8Cech/4fa1ba3531219ca8c39d8749160faf1a877f2ced).
 
 ## Salient Features:
 1) Real time drowsiness detection is implemented on light weight
@@ -49,8 +49,9 @@ In our drowsiness detector case, we’ll be monitoring the Eye Aspect Ratio to s
 ## Run in your own machine:
 * `git clone https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique.git`
 * `cd Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique`
-* `pip3 install -r requirements.txt`
+* `pip3 install -r requirements.txt` (This will take time)
 * `python3 Drowsiness_detecion.py`
 * `python3 Drowsiness_detecion_gpio.py` (for Raspberry Pi)
+* `Press Q to stop the process`
 
 
