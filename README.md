@@ -33,8 +33,6 @@ landmarks, we simply need to know the correct array slice
 indexes. Using those indexes, we are able to extract the eye
 regions via an array slice.
 
-The download link for the facial landamark indexes is given here - 
-https://drive.google.com/open?id=11AK6QzVa4Xu5JsfKgJ7lrQF7L3C3ug-9
 
 ### Step 3: Eye Blink detection Algorithm
 ![Drowsiness Detection](https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_plot.jpg)
@@ -47,4 +45,12 @@ and width of the eye is computed.
 Here we've the graph of EAR w.r.t time. As we can see, the Eye Aspect Ratio is constant (indicating the eye is open), then rapidly drops to zero, then increases again, indicating a blink has taken place.
 
 In our drowsiness detector case, we’ll be monitoring the Eye Aspect Ratio to see if the value falls but does not increase again, thus implying that the person has closed his eyes.
+
+## Run in your own machine:
+* `git clone https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique.git`
+* `cd Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique`
+* `pip3 install -r requirements.txt`
+* `python3 Drowsiness_detecion.py`
+* `python3 Drowsiness_detecion_gpio.py` (for Raspberry Pi)
+
 
