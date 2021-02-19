@@ -11,7 +11,7 @@ import pygame
 
 def start_sound():
     pygame.mixer.init()
-    pygame.mixer.music.load("z.ogg")
+    pygame.mixer.music.load("sound.ogg")
     pygame.mixer.music.play()
 
 
