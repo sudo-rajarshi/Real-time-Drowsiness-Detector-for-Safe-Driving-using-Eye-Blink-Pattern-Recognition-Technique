@@ -1,7 +1,7 @@
 # Real time Drowsiness Detector for Safe Driving using Eye Blink Pattern Recognition Technique 
 
 [![GitHub issues](https://img.shields.io/github/issues/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique)](https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique)](https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique/network)
+[![GitHub stars](https://img.shields.io/github/forks/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique)](https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique/network)
 [![GitHub license](https://img.shields.io/github/license/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique)](https://github.com/sudo-rajarshi/Real-time-Drowsiness-Detector-for-Safe-Driving-using-Eye-Blink-Pattern-Recognition-Technique/blob/master/LICENSE) 
 
 Inspired by Soukupová and Čech’s 2016 paper - [Real-Time Eye Blink Detection using Facial Landmarks](https://www.semanticscholar.org/paper/Real-Time-Eye-Blink-Detection-using-Facial-Soukupov%C3%A1-%C4%8Cech/4fa1ba3531219ca8c39d8749160faf1a877f2ced).
