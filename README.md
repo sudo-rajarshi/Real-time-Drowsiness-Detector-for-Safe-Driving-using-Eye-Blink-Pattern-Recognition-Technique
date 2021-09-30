@@ -22,6 +22,7 @@ constrained and unconstrained background.
 8) Prior communication is established with family members via
 email, SMS etc.
 
+
 ## Proposed Methodology:
 ### Step 1: Real time image capture
 Real time images are captured using raspberry pi camera with size of
