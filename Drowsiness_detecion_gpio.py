@@ -193,6 +193,7 @@ while True:
         camera.release()
         break
 
+
 curses.nocbreak()
 screen.keypad(0)
 curses.echo()
