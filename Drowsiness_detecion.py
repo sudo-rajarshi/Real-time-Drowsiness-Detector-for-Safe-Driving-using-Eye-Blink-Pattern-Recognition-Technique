@@ -48,7 +48,7 @@ def eye_aspect_ratio(eye):
     C = dist.euclidean(eye[0], eye[3])
 
     # compute the eye aspect ratio
-    ear = (A + B) / (2.0 * C) # ear = eye
+    ear = (A + B)/(2.0 * C) # ear = eye
 
     # return the eye aspect ratio
     return ear
